@@ -69,7 +69,7 @@ To fully understand and build each component of a GPT-like model, and eventually
 
 **GurSanjjam Singh Alang**  
 BCA Student · Aspiring AI Engineer  
-[LinkedIn](#) · [GitHub](#) · Email: yourname@email.com
+https://www.linkedin.com/in/gursanjjamsinghalang/ · https://github.com/GurSanjjamSingh · Email: sanjjam@gmail.com
 
 ---
 
