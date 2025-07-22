@@ -38,9 +38,7 @@ I'm actively building this project step-by-step to deeply understand the archite
 
 ## 🛠️ In Progress
 
-- 🔄 Positional Encoding
-- 🧮 Multi-Head Self-Attention
-- 🧠 Transformer Blocks
+- 🧠 Transformer Blocks (Currently working on...)
 - 🏋️‍♂️ Training Loop (Causal Language Modeling)
 - 📈 Loss tracking, evaluation & inference
 
