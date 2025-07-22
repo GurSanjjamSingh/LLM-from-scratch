@@ -30,6 +30,10 @@ I'm actively building this project step-by-step to deeply understand the archite
 - Designed an embedding matrix to convert token IDs into dense vectors
 - Lays the foundation for multi-head attention
 
+### 🔹 Multi-Head Attention
+- Created a MultiHeadAttention class, combining functionality of causal attention and self-attention
+- Divided the desired output_dimension among multiple heads of the neural network
+
 ---
 
 ## 🛠️ In Progress
